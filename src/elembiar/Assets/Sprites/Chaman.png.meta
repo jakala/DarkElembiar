@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: e649efe8d1a5fe04b95098aff3015ec7
+timeCreated: 1509106976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chaman_cabeza
+    21300002: Chaman_orejad
+    21300004: Chaman_orejai
+    21300006: Chaman_3
+    21300008: Chaman_guada
+    21300010: Chaman_coderai
+    21300012: Chaman_manoi
+    21300014: Chaman_coderad
+    21300016: Chaman_piernai
+    21300018: Chaman_piernad
+    21300020: Chaman_rodillai
+    21300022: Chaman_rodillad
+    21300024: Chaman_brazod
+    21300026: Chaman_muni
+    21300028: Chaman_pantod
+    21300030: Chaman_pantoi
+    21300032: Chaman_tronco
+    21300034: Chaman_anted
+    21300036: Chaman_piei
+    21300038: Chaman_pied
+    21300040: Chaman_mund
+    21300042: Chaman_cinto2
+    21300044: Chaman_antei
+    21300046: Chaman_punterai
+    21300048: Chaman_punterad
+    21300050: Chaman_cintura
+    21300052: Chaman_manod
+    21300054: Chaman_capa
+    21300056: Chaman_brzoi
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chaman_cabeza
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 636
+        width: 244
+        height: 200
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49499997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_orejad
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 729
+        width: 69
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_orejai
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 729
+        width: 89
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 663.2656
+        width: 260
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49423078, y: 0.54926354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_guada
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 203
+        width: 341
+        height: 617
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_coderai
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 610
+        width: 83
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_manoi
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 542
+        width: 113.99994
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_coderad
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 612
+        width: 88
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_piernai
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 487
+        width: 113
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_piernad
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 468.00003
+        width: 92
+        height: 144.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_rodillai
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 475.00003
+        width: 97
+        height: 136.99997
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_rodillad
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 480
+        width: 107
+        height: 123
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_brazod
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 355
+        width: 124
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_muni
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 485
+        width: 124
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_pantod
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 94
+        height: 145
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_pantoi
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 292
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_tronco
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 139
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_anted
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 364
+        width: 74
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_piei
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 163
+        width: 86
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_pied
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 88
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_mund
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 240
+        width: 103
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_cinto2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 220.99998
+        width: 92
+        height: 82.000015
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_antei
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 181
+        width: 96.00006
+        height: 143
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_punterai
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 84.99999
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_punterad
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 60
+        width: 88
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_cintura
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 44
+        width: 165
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_manod
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 74
+        width: 81
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_capa
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4
+        width: 423
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5027778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chaman_brzoi
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 21
+        width: 131
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 98900832492623
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: ataca
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Huesos/Cintura
+    localPosition: {x: 1.6070409, y: -0.10002434, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.71191114, w: 0.70226955}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/tronco
+    localPosition: {x: 0.38999546, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.000002827426, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/tronco/cabeza
+    localPosition: {x: 1, y: 0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.69766045, w: 0.71642864}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/brazoi
+    localPosition: {x: 1.3338606, y: 0.5698668, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.91721547, w: 0.39839146}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/brazoi/antei
+    localPosition: {x: 1.4399999, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.70548713, w: 0.7087227}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/brazoi/antei/manoi
+    localPosition: {x: 1.3800001, y: -0.00000011920929, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.2431536, w: -0.9699878}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/brazod
+    localPosition: {x: 1.2641693, y: -0.73075336, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.8746073, w: 0.484832}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/brazod/anted
+    localPosition: {x: 1.5100005, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.6790768, w: 0.73406726}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/brazod/anted/manod
+    localPosition: {x: 1.1800003, y: -0.00000014697434, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.342651, w: 0.9394628}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/piernai
+    localPosition: {x: -0.22669582, y: 0.1942114, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9447397, w: 0.3278214}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/piernai/pierna2i
+    localPosition: {x: 1.1499999, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.49414217, w: 0.8693811}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/piernai/pierna2i/piei
+    localPosition: {x: 1.01, y: 0.00000035762787, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.70799994, w: -0.70621246}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/piernad
+    localPosition: {x: -0.20387511, y: -0.3621076, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9750228, w: 0.22210489}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/piernad/pierna2d
+    localPosition: {x: 1.1899999, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0011835156, w: 0.9999993}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/piernad/pierna2d/pied
+    localPosition: {x: 0.85000026, y: -0.0000000016298145, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.61046803, w: 0.7920409}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/capa
+    localPosition: {x: -0.44204897, y: -0.23538125, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9964074, w: 0.08468912}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/capa/capa2
+    localPosition: {x: 1.0000005, y: -0.00000017881393, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.004901361, w: 0.999988}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Huesos/Cintura/capa/capa2/capa3
+    localPosition: {x: 0.44000053, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.34593812, w: 0.93825734}
+    localScale: {x: 1, y: 1, z: 1}

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Plataforma
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: c6f65d4600023cf90ac366e20c28038e
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: c6f65d4600023cf90ac366e20c28038e
+    totalSpriteSurfaceArea: 248961
+    packables:
+    - {fileID: 102900000, guid: e9301920fb035ce4ebed057d4b2d7884, type: 3}
+    packedSpriteRenderDataKeys:
+    - dc85512c68392ae43b90fe7a6c5dbcca: 21300000
+    - 2a0fe39f076f4a34b8e68f079a6b1674: 21300000
+    - b57cf9485e1d38a4fb38493818179ee9: 21300000
+    - 857db44c38d65184fbd10ea389fbf802: 21300000
+    - 617c24823512f92469c2a73bf7daa396: 21300000
+    - bdcc78147d0b4ec4f906ec0c6adc65d4: 21300000
+    - 6546cbbd028f5ec4faad4eda7081b55c: 21300000
+    - 49632a96b9b76954187978c51fe7f4ee: 21300000
+    - 529190bcb2da30942824140d1b7e68e9: 21300000
+    - 273b7a8b84697944785a7ebd5a9bf7ca: 21300000
+    - bed1e2ce4b3ac7a4fb1d309398f2dd2a: 21300000
+    - b0ea87c28e3f48842a1c87ebf03cab74: 21300000
+    - 245f5fcbfc8ad0645832ed449b26ad18: 21300000
+    - f4153d71b3eb5f14c93e7b67c4243eb5: 21300000
+    - b6fb975934378194a9032fe3d1d99c53: 21300000
+    - 8970858e71426ba46976e0345ec69330: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dc85512c68392ae43b90fe7a6c5dbcca, type: 3}
+  - {fileID: 21300000, guid: 2a0fe39f076f4a34b8e68f079a6b1674, type: 3}
+  - {fileID: 21300000, guid: b57cf9485e1d38a4fb38493818179ee9, type: 3}
+  - {fileID: 21300000, guid: 857db44c38d65184fbd10ea389fbf802, type: 3}
+  - {fileID: 21300000, guid: 617c24823512f92469c2a73bf7daa396, type: 3}
+  - {fileID: 21300000, guid: bdcc78147d0b4ec4f906ec0c6adc65d4, type: 3}
+  - {fileID: 21300000, guid: 6546cbbd028f5ec4faad4eda7081b55c, type: 3}
+  - {fileID: 21300000, guid: 49632a96b9b76954187978c51fe7f4ee, type: 3}
+  - {fileID: 21300000, guid: 529190bcb2da30942824140d1b7e68e9, type: 3}
+  - {fileID: 21300000, guid: 273b7a8b84697944785a7ebd5a9bf7ca, type: 3}
+  - {fileID: 21300000, guid: bed1e2ce4b3ac7a4fb1d309398f2dd2a, type: 3}
+  - {fileID: 21300000, guid: b0ea87c28e3f48842a1c87ebf03cab74, type: 3}
+  - {fileID: 21300000, guid: 245f5fcbfc8ad0645832ed449b26ad18, type: 3}
+  - {fileID: 21300000, guid: f4153d71b3eb5f14c93e7b67c4243eb5, type: 3}
+  - {fileID: 21300000, guid: b6fb975934378194a9032fe3d1d99c53, type: 3}
+  - {fileID: 21300000, guid: 8970858e71426ba46976e0345ec69330, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - 16
+  - 10
+  - 11
+  - 12
+  - 5
+  - 7
+  - 6
+  - 1
+  - 3
+  - 2
+  - 9
+  - 8
+  - 14
+  - 15
+  - 13
+  m_Tag: Plataforma
+  m_IsVariant: 0

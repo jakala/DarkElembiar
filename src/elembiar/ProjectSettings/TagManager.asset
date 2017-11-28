@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - suelo
+  - espada
+  - fondoNiebla
+  - Enemigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondoNiebla
+    uniqueID: 4198049501
+    locked: 0
+  - name: arbol
+    uniqueID: 4252522235
+    locked: 0
+  - name: fondoFinal
+    uniqueID: 257497653
+    locked: 0
+  - name: fondoAnimado
+    uniqueID: 2337470441
+    locked: 0
+  - name: paisaje
+    uniqueID: 3972474071
+    locked: 0
+  - name: personaje
+    uniqueID: 1097280603
+    locked: 0
+  - name: X
+    uniqueID: 1027077785
+    locked: 0
+  - name: Chaman
+    uniqueID: 4231637845
+    locked: 0
+  - name: elembiar
+    uniqueID: 3965384859
+    locked: 0
+  - name: obispo
+    uniqueID: 150974701
+    locked: 0

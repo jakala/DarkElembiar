@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: aa240c50d55652a48a2f09ecc534900e
+timeCreated: 1508348118
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guerrero_brazo_d
+    21300002: guerro_brazo_i
+    21300004: guerrero_cuerpo
+    21300006: guerro_cintura
+    21300008: guerro_pelo
+    21300010: guerro_cabeza
+    21300012: guerro_mano_d
+    21300014: guerrero_sprite_clean_7
+    21300016: guerro_pierna_d
+    21300018: guerro_pierna_i
+    21300020: guerro_boca1
+    21300022: guerro_boca2
+    21300024: guerro_boca3
+    21300026: guerro_boca4
+    21300028: guerro_boca5
+    21300030: guerro_cuello
+    21300032: guerro_escudo
+    21300034: guerro_base
+    21300036: guerro_hombro_d
+    21300038: guerro_hombro_i
+    21300040: guerro_falda_d
+    21300042: guerro_falda_c
+    21300044: guerro_falda_i
+    21300046: guerro_cinto
+    21300048: guerro_rodilla_d
+    21300050: guerrero_rodilla_i
+    21300052: guerrero_antebrazo_d
+    21300054: guerrero_sprite_clean_33
+    21300056: guerrero_pernera_d
+    21300058: guerrero_pernera_i
+    21300060: guerrero_puntera_d
+    21300062: guerrero_puntera_i
+    21300064: guerrero_espada
+    21300066: guerrero_pie_d
+    21300068: guerrero_pie_i
+    21300070: guerro_ojos1
+    21300072: guerro_ojos2
+    21300074: guerro_ojos3
+    21300076: guerrero_brazo_i
+    21300078: guerrero_cintura
+    21300080: guerrero_pelo
+    21300082: guerrero_cabeza
+    21300084: guerrero_mano_d
+    21300086: guerrero_pierna_d
+    21300088: guerrero_pierna_i
+    21300090: guerrero_boca1
+    21300092: guerrero_boca2
+    21300094: guerrero_boca3
+    21300096: guerrero_boca4
+    21300098: guerrero_boca5
+    21300100: guerrero_cuello
+    21300102: guerrero_base
+    21300104: guerrero_hombro_d
+    21300106: guerrero_hombro_i
+    21300108: guerrero_falda_d
+    21300110: guerrero_falda_c
+    21300112: guerrero_falda_i
+    21300114: guerrero_cinto
+    21300116: guerrero_rodilla_d
+    21300118: guerrero_ojos1
+    21300120: guerrero_ojos2
+    21300122: guerrero_ojos3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guerrero_brazo_d
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 540
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 22.5}
+        - {x: -16.5, y: 17.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -17.5, y: -16.5}
+        - {x: -15.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 17.5, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_brazo_i
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 547
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16.5}
+        - {x: -10, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 10, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_cuerpo
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 541
+        width: 37
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 22.5}
+        - {x: -13.5, y: 19.5}
+        - {x: -13.5, y: -19.5}
+        - {x: -10.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 13.5, y: 14.5}
+        - {x: 7.5, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_cintura
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 541
+        width: 54
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 17.5}
+        - {x: -22, y: 15.5}
+        - {x: -22, y: -3.5}
+        - {x: -3, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 12.5}
+        - {x: 21, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pelo
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 475
+        width: 72
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 53.5}
+        - {x: -31, y: -53.5}
+        - {x: 21, y: -53.5}
+        - {x: 26, y: -50.5}
+        - {x: 31, y: -35.5}
+        - {x: 31, y: -17.5}
+        - {x: 13, y: 53.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_cabeza
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 531
+        width: 76.99997
+        height: 61
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 25.5}
+        - {x: -33.5, y: 16.5}
+        - {x: -33.5, y: -0.5}
+        - {x: -21.5, y: -22.5}
+        - {x: -8.5, y: -25.5}
+        - {x: 33.5, y: -25.5}
+        - {x: 33.5, y: 11.5}
+        - {x: 18.5, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_mano_d
+      rect:
+        serializedVersion: 2
+        x: 3.000002
+        y: 481
+        width: 63
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 23.5}
+        - {x: -14.5, y: 23.5}
+        - {x: -26.5, y: 19.5}
+        - {x: -26.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 26.5, y: -12.5}
+        - {x: 26.5, y: 22.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_sprite_clean_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 484
+        width: 64
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -27, y: 14}
+        - {x: -27, y: -19}
+        - {x: -25, y: -22}
+        - {x: 27, y: -22}
+        - {x: 27, y: 20}
+        - {x: 21, y: 22}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pierna_d
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 413
+        width: 61
+        height: 71
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 30.5}
+        - {x: -25.5, y: 9.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -18.5, y: -30.5}
+        - {x: 22.5, y: -30.5}
+        - {x: 25.5, y: -22.5}
+        - {x: 25.5, y: 29.5}
+        - {x: 24.5, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pierna_i
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 416
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -6}
+        - {x: -24, y: -20}
+        - {x: -14, y: -29}
+        - {x: 27, y: -29}
+        - {x: 27, y: 16}
+        - {x: 22, y: 29}
+        - {x: -26, y: 29}
+        - {x: -27, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_boca1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 466.00003
+        width: 33
+        height: 25.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8076921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 8}
+        - {x: -11.5, y: 1}
+        - {x: -9.5, y: -8}
+        - {x: 9.5, y: -8}
+        - {x: 11.5, y: -3}
+        - {x: 11.5, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_boca2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 461
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.83870965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 10.5}
+        - {x: -11.5, y: -2.5}
+        - {x: -9.5, y: -10.5}
+        - {x: 8.5, y: -10.5}
+        - {x: 11.5, y: -7.5}
+        - {x: 11.5, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_boca3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 466.00003
+        width: 35
+        height: 26.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.81481457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 8.5}
+        - {x: -12.5, y: -8.5}
+        - {x: 12.5, y: -8.5}
+        - {x: 12.5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_boca4
+      rect:
+        serializedVersion: 2
+        x: 465.00003
+        y: 464.00003
+        width: 32.99997
+        height: 27.99997
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.82142836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 9}
+        - {x: -11.5, y: -1}
+        - {x: -9.5, y: -9}
+        - {x: 8.5, y: -9}
+        - {x: 11.5, y: -7}
+        - {x: 11.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_boca5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 465.00003
+        width: 33
+        height: 27.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.82142836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 9}
+        - {x: -11.5, y: -9}
+        - {x: 11.5, y: -9}
+        - {x: 11.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_cuello
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 342
+        width: 77
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 27}
+        - {x: -33.5, y: 15}
+        - {x: -33.5, y: -15}
+        - {x: -14.5, y: -27}
+        - {x: 20.5, y: -27}
+        - {x: 33.5, y: -19}
+        - {x: 33.5, y: 11}
+        - {x: 20.5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerro_escudo
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 273
+        width: 66
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 53}
+        - {x: -28, y: 45}
+        - {x: -28, y: -26}
+        - {x: -8, y: -53}
+        - {x: 11, y: -53}
+        - {x: 28, y: -40}
+        - {x: 28, y: 42}
+        - {x: 26, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_base
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 148
+        width: 216
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 130}
+        - {x: 14, y: 134}
+        - {x: -103, y: 134}
+        - {x: -103, y: -60}
+        - {x: -81, y: -134}
+        - {x: 69, y: -134}
+        - {x: 79, y: -130}
+        - {x: 103, y: -47}
+        - {x: 103, y: 27}
+      - - {x: 6, y: -109}
+        - {x: 5, y: -106}
+        - {x: 14, y: -69}
+        - {x: 13, y: -64}
+        - {x: 11, y: -62}
+        - {x: 13, y: -62}
+        - {x: 16, y: -66}
+        - {x: 12, y: -113}
+        - {x: 11, y: -116}
+        - {x: 12, y: -116}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_hombro_d
+      rect:
+        serializedVersion: 2
+        x: 5.000001
+        y: 261
+        width: 76
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 33.5}
+        - {x: -15, y: 33.5}
+        - {x: -26, y: 28.5}
+        - {x: -33, y: 10.5}
+        - {x: -33, y: -21.5}
+        - {x: -7, y: -33.5}
+        - {x: 28, y: -33.5}
+        - {x: 33, y: -27.5}
+        - {x: 33, y: 11.5}
+        - {x: 28, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_hombro_i
+      rect:
+        serializedVersion: 2
+        x: 83.99999
+        y: 266
+        width: 59.000008
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28}
+        - {x: -24.5, y: 23}
+        - {x: -24.5, y: -27}
+        - {x: -23.5, y: -28}
+        - {x: 13.5, y: -28}
+        - {x: 24.5, y: -5}
+        - {x: 24.5, y: 21}
+        - {x: 17.5, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_falda_d
+      rect:
+        serializedVersion: 2
+        x: 216.18591
+        y: 214.219
+        width: 48
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4752935, y: 0.48283106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 28.5}
+        - {x: -17, y: -4.5}
+        - {x: -17, y: -21.5}
+        - {x: 0, y: -28.5}
+        - {x: 10, y: -28.5}
+        - {x: 17, y: 12.5}
+        - {x: 17, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_falda_c
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 209.49998
+        width: 47
+        height: 73.000015
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.47945216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 25.5}
+        - {x: 9.5, y: 29.5}
+        - {x: -16.5, y: 29.5}
+        - {x: -16.5, y: -29.5}
+        - {x: 10.5, y: -29.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_falda_i
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 214
+        width: 45
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28.5}
+        - {x: -17.5, y: 13.5}
+        - {x: -8.5, y: -28.5}
+        - {x: 0.5, y: -28.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 17.5, y: -7.5}
+        - {x: 2.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_cinto
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 209.99998
+        width: 62
+        height: 51.000015
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 20.5}
+        - {x: -14, y: 20.5}
+        - {x: -26, y: 18.5}
+        - {x: -26, y: -1.5}
+        - {x: -1, y: -20.5}
+        - {x: 19, y: -20.5}
+        - {x: 26, y: -11.5}
+        - {x: 26, y: 16.5}
+        - {x: 25, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_rodilla_d
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 58
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -24, y: 8}
+        - {x: -24, y: -9}
+        - {x: -7, y: -19}
+        - {x: 17, y: -19}
+        - {x: 24, y: -13}
+        - {x: 24, y: 13}
+        - {x: 16, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_rodilla_i
+      rect:
+        serializedVersion: 2
+        x: 153.99998
+        y: 215
+        width: 55.000015
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -22.5, y: -9.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 15.5, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_antebrazo_d
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94.00001
+        width: 77.00001
+        height: 113.99999
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 52}
+        - {x: -33.5, y: 38}
+        - {x: -33.5, y: -35}
+        - {x: -25.5, y: -50}
+        - {x: -16.5, y: -52}
+        - {x: 33.5, y: -52}
+        - {x: 33.5, y: 30}
+        - {x: 28.5, y: 52}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_sprite_clean_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 111
+        width: 75
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 43.5}
+        - {x: -28.5, y: 43.5}
+        - {x: -32.5, y: 40.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -14.5, y: -43.5}
+        - {x: 32.5, y: -43.5}
+        - {x: 32.5, y: 16.5}
+        - {x: 10.5, y: 41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pernera_d
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 146
+        width: 45
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 26.5}
+        - {x: -17.5, y: 21.5}
+        - {x: -17.5, y: -25.5}
+        - {x: -15.5, y: -26.5}
+        - {x: 8.5, y: -26.5}
+        - {x: 17.5, y: -18.5}
+        - {x: 17.5, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pernera_i
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 46
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27.5}
+        - {x: -18, y: 24.5}
+        - {x: -18, y: -27.5}
+        - {x: 1, y: -27.5}
+        - {x: 16, y: -19.5}
+        - {x: 18, y: -9.5}
+        - {x: 18, y: 25.5}
+        - {x: 12, y: 27.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_puntera_d
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 107
+        width: 55
+        height: 37
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 2.5}
+        - {x: -22.5, y: -13.5}
+        - {x: 22.5, y: -13.5}
+        - {x: 22.5, y: 10.5}
+        - {x: 21.5, y: 13.5}
+        - {x: -12.5, y: 13.5}
+        - {x: -21.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_puntera_i
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 107
+        width: 54
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 13.5}
+        - {x: -14, y: 13.5}
+        - {x: -22, y: 3.5}
+        - {x: -22, y: -13.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_espada
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 259
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5, y: 36}
+        - {x: 68.5, y: 21}
+        - {x: 63.5, y: 14}
+        - {x: 10.5, y: 36}
+        - {x: -116.5, y: 36}
+        - {x: -124.5, y: 24}
+        - {x: -124.5, y: -4}
+        - {x: -109.5, y: -25}
+        - {x: -67.5, y: -36}
+        - {x: 13.5, y: -36}
+        - {x: 84.5, y: -28}
+        - {x: 124.5, y: 20}
+        - {x: 124.5, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pie_d
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 6
+        width: 54
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 17}
+        - {x: -17, y: 17}
+        - {x: -22, y: 15}
+        - {x: -22, y: -13}
+        - {x: -21, y: -17}
+        - {x: 22, y: -17}
+        - {x: 22, y: 3}
+        - {x: 20, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_pie_i
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6
+        width: 55.00003
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 17}
+        - {x: -22.5, y: -15}
+        - {x: -20.5, y: -17}
+        - {x: 22.5, y: -17}
+        - {x: 22.5, y: 0}
+        - {x: 6.5, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_ojos1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 502.00003
+        width: 45
+        height: 23.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 2.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 4.5, y: -4.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 11.5, y: -6.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 17.5, y: 2.5}
+      - - {x: -16.5, y: 7.5}
+        - {x: -17.5, y: 5.5}
+        - {x: -17.5, y: -0.5}
+        - {x: -11.5, y: -4.5}
+        - {x: -0.5, y: -4.5}
+        - {x: 1.5, y: -1.5}
+        - {x: 1.5, y: 1.5}
+        - {x: -7.5, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_ojos2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 500.99997
+        width: 39
+        height: 23.00003
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5217398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 1}
+        - {x: 1, y: -2}
+        - {x: 1, y: -7}
+        - {x: 11, y: -7}
+        - {x: 13, y: -3}
+        - {x: 13, y: 1}
+      - - {x: -16, y: 6}
+        - {x: -16, y: -2}
+        - {x: -15, y: -4}
+        - {x: -9, y: -6}
+        - {x: -4, y: -6}
+        - {x: -2, y: -5}
+        - {x: -2, y: -1}
+        - {x: -10, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: guerrero_ojos3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 499.99997
+        width: 41
+        height: 22.00003
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.59090966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -3}
+        - {x: 0.5, y: -6}
+        - {x: 1.5, y: -8}
+        - {x: 10.5, y: -8}
+        - {x: 14.5, y: -5}
+        - {x: 14.5, y: -3}
+        - {x: 12.5, y: -1}
+      - - {x: -12.5, y: 4}
+        - {x: -16.5, y: 4}
+        - {x: -16.5, y: -2}
+        - {x: -4.5, y: -8}
+        - {x: -2.5, y: -8}
+        - {x: -0.5, y: -7}
+        - {x: -0.5, y: -3}
+        - {x: -7.5, y: 3}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 98851094055027
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 45c541673dc6f0e42ba44593ac5d716b
+timeCreated: 1507748192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: polvo1
+    21300002: polvo2
+    21300004: polvo3
+    21300006: polvo4
+    21300008: polvo5
+    21300010: polvo6
+    21300012: sprite_fx_final_6
+    21300014: sprite_fx_final_7
+    21300016: sprite_fx_final_8
+    21300018: sprite_fx_final_9
+    21300020: sprite_fx_final_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: polvo1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 434
+        width: 96
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49999985, y: -0.042691343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: polvo2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 423
+        width: 131
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5082113, y: 0.004064783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: polvo3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 414
+        width: 126
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.011649852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: polvo4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 413
+        width: 204
+        height: 164
+      alignment: 9
+      pivot: {x: 0.49472705, y: 0.00806855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: polvo5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 417
+        width: 228
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49528182, y: 0.0024930954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: polvo6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 246
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: -0.005158398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_fx_final_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 223
+        width: 270
+        height: 185
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.005764028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_fx_final_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 219
+        width: 250
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.005297574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_fx_final_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 258
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49583063, y: 0.007929143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_fx_final_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 20
+        width: 257
+        height: 188
+      alignment: 9
+      pivot: {x: 0.50418556, y: -0.0035144724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_fx_final_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 15
+        width: 267
+        height: 194
+      alignment: 9
+      pivot: {x: 0.49597123, y: -0.0045761326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

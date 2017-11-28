@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 079617bb60ebb1f4aba99772716b24cd
+timeCreated: 1509391704
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Elembiar_cinto
+    21300002: Elembiar_hombrera_derecha
+    21300004: Elembiar_antebrazo_izquierdo
+    21300006: Elembiar_cabeza
+    21300008: Elembiar_espada
+    21300010: Elembiar_rodillera_derecha
+    21300012: Elembiar_antebrazo_derecho
+    21300014: Elembiar_muslo_derecho
+    21300016: Elembiar_hombrera_izquierda
+    21300018: Elembiar_coraza
+    21300020: "Elembiar_pu\xF1o_espada"
+    21300022: Elembiar_mano_derecha
+    21300024: Elembiar_muslo_izquierdo
+    21300026: Elembiar_biceps_derecho
+    21300028: Elembiar_espinillera_izquierda
+    21300030: Elembiar_espinillera_derecha
+    21300032: Elembiar_ojos_2
+    21300034: Elembiar_boca_2
+    21300036: Elembiar_rodillera_izquierda
+    21300038: Elembiar_pie_derecho
+    21300040: Elembiar_pie_izquierdo
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elembiar_cinto
+      rect:
+        serializedVersion: 2
+        x: 22.000002
+        y: 930
+        width: 138
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_hombrera_derecha
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 825
+        width: 140
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_antebrazo_izquierdo
+      rect:
+        serializedVersion: 2
+        x: 477.272
+        y: 808.272
+        width: 133.728
+        height: 145.72797
+      alignment: 9
+      pivot: {x: 0.49524406, y: 0.495636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_cabeza
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 774
+        width: 230
+        height: 232
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_espada
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 667
+        width: 162
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_rodillera_derecha
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 784
+        width: 101
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_antebrazo_derecho
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 150
+        height: 206
+      alignment: 9
+      pivot: {x: 0.48333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_muslo_derecho
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 454
+        width: 159.99997
+        height: 277
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_hombrera_izquierda
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 415
+        width: 220
+        height: 337
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_coraza
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 420
+        width: 196
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Elembiar_pu\xF1o_espada"
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 467
+        width: 182
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_mano_derecha
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 219
+        width: 105
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_muslo_izquierdo
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 147
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_biceps_derecho
+      rect:
+        serializedVersion: 2
+        x: 492.00003
+        y: 172
+        width: 141.99997
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_espinillera_izquierda
+      rect:
+        serializedVersion: 2
+        x: 788.99994
+        y: 172
+        width: 101.00006
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_espinillera_derecha
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 172
+        width: 123
+        height: 225
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_ojos_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 125
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_boca_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 95.00003
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_rodillera_izquierda
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 17
+        width: 114
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_pie_derecho
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 128
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elembiar_pie_izquierdo
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 22
+        width: 139
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51798564, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 98919493702058
+  assetBundleName: 
+  assetBundleVariant: 

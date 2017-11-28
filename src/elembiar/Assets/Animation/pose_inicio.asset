@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: pose_inicio
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: HUESOS/cintura
+    localPosition: {x: 1.2850003, y: 0.24197781, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.897023, w: 0.44198382}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco
+    localPosition: {x: 0.14550641, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.23688805, w: 0.971537}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco/cabeza
+    localPosition: {x: 0.47001156, y: -0.0000000055879354, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.12002147, w: 0.9927713}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco/brazoDerecho
+    localPosition: {x: 0.47871637, y: 0.27391604, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.97399163, w: 0.22658396}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco/brazoDerecho/antebrazoDerecho
+    localPosition: {x: 0.62000036, y: -0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.2941054, w: 0.955773}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco/brazoDerecho/antebrazoDerecho/manoDerecha
+    localPosition: {x: 0.7288673, y: 0.000000059604645, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.09743155, w: -0.99524224}
+    localScale: {x: 1, y: 1.0374998, z: 1}
+  - path: HUESOS/cintura/tronco/brazoIzquierdo
+    localPosition: {x: 0.27700737, y: -0.20317918, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.98319536, w: 0.18255669}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco/brazoIzquierdo/antebrazoIzquierdo
+    localPosition: {x: 0.5200003, y: -0.000000067055225, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/tronco/brazoIzquierdo/antebrazoIzquierdo/manoIzquierda
+    localPosition: {x: 0.46079388, y: -0.0000001937151, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.4911281, w: 0.87108743}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/piernaDerecha
+    localPosition: {x: -0.30573064, y: 0.21983549, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.82722515, w: 0.56187063}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/piernaDerecha/pantorrillaDerecha
+    localPosition: {x: 0.5300001, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/piernaDerecha/pantorrillaDerecha/pieDerecho
+    localPosition: {x: 0.4829718, y: 0.00000017881393, z: 0}
+    localRotation: {x: -0.00141899, y: 0.021501357, z: -0.7235638, w: -0.68992114}
+    localScale: {x: 1.0805173, y: 1, z: 1}
+  - path: HUESOS/cintura/piernaIzquierda
+    localPosition: {x: -0.40883997, y: -0.06298646, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.90416014, w: 0.42719376}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/piernaIzquierda/pantorrillaIzquierda
+    localPosition: {x: 0.5300002, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/piernaIzquierda/pantorrillaIzquierda/pieIzquierdo
+    localPosition: {x: 0.6000004, y: 0.00000022351742, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.7828268, w: -0.6222397}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/faldaDerecha
+    localPosition: {x: -0.13708463, y: 0.31731343, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.8292523, w: 0.5588744}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/faldaDerecha/faldaDerechaFin
+    localPosition: {x: 0.14000003, y: 0.000000044703484, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.075585194, w: 0.9971394}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/faldaIzquierda
+    localPosition: {x: -0.33047983, y: -0.046198726, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.8755717, w: -0.4830882}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/faldaIzquierda/faldaIzquierdafin
+    localPosition: {x: 0.13000008, y: -0.000000022351742, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.3805041, w: -0.9247793}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/faldaCentro
+    localPosition: {x: -0.3598014, y: 0.21997368, z: 0}
+    localRotation: {x: 0.0071936245, y: 0.018268375, z: -0.9608561, w: -0.2763516}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: HUESOS/cintura/faldaCentro/faldaCentrofin
+    localPosition: {x: 0.19000009, y: -0.0000000121071935, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.15836386, w: -0.98738086}
+    localScale: {x: 1, y: 1, z: 1}
